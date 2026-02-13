@@ -1,16 +1,13 @@
-## Hi there 👋
+## Caso você ainda não percebeu, The-real-Stelle não é a Stelle de verdade.
 
-<!--
-**The-real-Stelle/The-real-Stelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=guilherme.knies@escola.pr.gov.br" alt="Gmail"/></a> guilherme.knies@escola.pr.gov.br
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
+Mesmo se um bolo tem uma vela, ainda é bolo
