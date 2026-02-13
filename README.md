@@ -1,6 +1,5 @@
 ## Caso você ainda não percebeu, The-real-Stelle não é a Stelle de verdade.
 
-![honkai-star-rail-star-rail](https://github.com/user-attachments/assets/00c0132f-93b6-4988-8803-eaf7029bc3c9)
 
 
 
